@@ -1,4 +1,4 @@
-"""This program will check if the password entered meets the requirement """
+"""This program will check if the password entered meets the requirement  """
 
 def main():
     min_length = 8  # minimum password length
